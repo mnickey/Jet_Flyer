@@ -8,7 +8,7 @@ To use, follow these steps:
 * install requirements `pip3 install -r requirements.txt`  
 * run the game `python3 jets.py`  
 
-[Screenshot](Screenshot.png)
+![Screenshot](Screenshot.png)
 
 Acknolegements:  
 Michael Herman with his amazing tutorial over at [Real Python](http://www.realpython.com)
